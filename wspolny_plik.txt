@@ -2,3 +2,9 @@ Tekst poczatkowy
 Tekst Studenta B
 labolatorium nr9
 tekst 2
+tekst1
+tekst2
+tekst3
+tekst4
+tekst5
+tekst6
